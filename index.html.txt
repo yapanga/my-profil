@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Profil - yapanga</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Bienvenue sur le profil d'yapanga</h1>
+            <!-- Image de profil dans le dossier images -->
+            <img src="images/prfles.jpeg" alt="Photo de profil" class="profile-img">
+        </header>
+
+        <section class="bio">
+            <h2>À propos de moi</h2>
+            <p>Bonjour, je suis yapanga. Passionné par les animés et la science, je suis toujours à la recherche de nouvelles découvertes dans ces domaines. Que ce soit en suivant des séries animées ou en explorant les mystères de l'univers, chaque jour est une nouvelle aventure !</p>
+        </section>
+
+        <section class="social-links">
+            <h2>Suivez-moi</h2>
+            <ul>
+                <li><a href="https://github.com/yapanga" target="_blank">GitHub</a></li>
+                <li><a href="https://www.linkedin.com/in/aeroe" target="_blank">LinkedIn</a></li>
+                <li><a href="https://twitter.com/yapanga" target="_blank">Twitter</a></li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
